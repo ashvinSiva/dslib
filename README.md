@@ -1,4 +1,4 @@
-# dslib
+# Description
 `dslib` is a data structures' library that implements most of the concepts from **Intro to Computing II** (ITI1121) and **Engineering Computation** (GNG1106) and at the University of Ottawa. This project dives deeper into custom structured data, generics, and the fundamentals of memory management using C Programming Language. 
 
 # The Goal
